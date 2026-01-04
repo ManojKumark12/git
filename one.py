@@ -6,4 +6,4 @@ print("Hello world main check")
 
 print("7777")
 print("88888")
-print("newwww_github")
+print("newwww_git")
